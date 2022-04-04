@@ -29,3 +29,8 @@ fdfdgf
 }
 window.onclick = handle1; this is a set
 
+Timers
+let timerid = settime()
+
+go game uses timers as well
+user interface timers is very time consuming
