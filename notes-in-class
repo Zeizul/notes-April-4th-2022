@@ -12,3 +12,10 @@ dwindow.onbeforeunload
 window.resize
 
 very important to notice how the window grows larger as more text is put into it
+
+blur means losing focus
+keydown and keypress are different
+keypress = keydown and keyup composition cycle
+addEventListener()
+
+every handler has an optional event object parameter
