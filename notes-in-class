@@ -1,0 +1,14 @@
+onkeypress
+onchange
+onfocus
+onblur
+onmouseexit
+onmouseup
+onmousedown
+
+
+window.onunloa
+dwindow.onbeforeunload
+window.resize
+
+very important to notice how the window grows larger as more text is put into it
