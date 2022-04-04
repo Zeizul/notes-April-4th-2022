@@ -27,4 +27,4 @@ Function handle1()
 {
 fdfdgf
 }
-
+window.onclick = handle1; this is a set
