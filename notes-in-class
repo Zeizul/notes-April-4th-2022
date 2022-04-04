@@ -34,3 +34,5 @@ let timerid = settime()
 
 go game uses timers as well
 user interface timers is very time consuming
+takes long time to come up with clear idea
+OOP helps, write description then instruct keywords. Most frequent word is name of object
