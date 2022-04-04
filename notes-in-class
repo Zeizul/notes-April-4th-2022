@@ -19,3 +19,12 @@ keypress = keydown and keyup composition cycle
 addEventListener()
 
 every handler has an optional event object parameter
+anonymous function
+window.onclick = Function(){adsasda}
+window,addEventListener('click',handle1);
+
+Function handle1()
+{
+fdfdgf
+}
+
